@@ -2,6 +2,8 @@
 
 An extension for [ColorAide](https://github.com/facelessuser/coloraide) that provides functionality to find accessible color variants that achieve specific contrast ratios against background colors.
 
+**WARNING!** It's a vibe-coding implementation and need more tests and code review of true programmers. Be carefull.
+
 ## Features
 
 - **Contrasty Method**: Find color variants that achieve target contrast ratios
